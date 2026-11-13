@@ -1,0 +1,1 @@
+{"name":"burn-day","version":"1.0.0","private":true,"description":"Aniversário do Breno — Burn Day","scripts":{"dev":"node scripts/serve.mjs","start":"node scripts/serve.mjs","build":"node scripts/build.mjs","check":"node --check app.js","photos":"node scripts/import-photos.mjs"},"engines":{"node":">=18"}}
